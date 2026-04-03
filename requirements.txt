@@ -1,0 +1,6 @@
+flask
+sentence-transformers
+torch
+joblib
+scikit-learn
+pandas
